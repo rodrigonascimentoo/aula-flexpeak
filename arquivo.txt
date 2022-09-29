@@ -1,7 +1,5 @@
+primeira linha
+segunda linha
 terceira linha
-segunda alteração
-meu primeiro arquivo
-nova teste
-quinta linha duplicada
 
 
